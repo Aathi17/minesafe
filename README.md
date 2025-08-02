@@ -5,7 +5,7 @@ The dashboard provides miner vitals, seismic activity, zone-based grouping, and 
 
 
 
-# 🚀 Features
+ 🚀 Features
 
  ⚡ Real-time ECG heart rate monitoring (simulated data)
  🌡️ Dynamic CO₂ and Oxygen level monitoring
@@ -16,7 +16,7 @@ The dashboard provides miner vitals, seismic activity, zone-based grouping, and 
  ✅ Contact Miner button with floating modal
  🪄 Smooth hover effects and glassmorphism styling
 
-# 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
  **React + Vite** → Frontend framework
  **Tailwind CSS** → Styling & responsiveness
@@ -24,7 +24,7 @@ The dashboard provides miner vitals, seismic activity, zone-based grouping, and 
  **React Router** → Routing between dashboard & miner info
  **Lucide Icons** → Clean consistent icons
 
-# 📝 Usage
+📝 Usage
 From the home screen, click View Miners
 Select any miner ID (ex: MINE001)
 View miner's heart rate, vitals, seismic activity, and environmental data
@@ -32,22 +32,22 @@ Use Contact Miner button to send alert
 Toggle between light/dark theme
 
 
-# 🙌 Acknowledgements
+🙌 Acknowledgements
 Inspired by real-time industrial IoT dashboards
 Logo: Custom MineSafe logo
 Built as part of academic + personal project
 
 
-# 💡 Future Improvements
+💡 Future Improvements
 Connect to real sensor data via WebSocket/API
 Alert notifications system
 Admin login & miner assignment management
 Mobile-first responsive enhancements
 
-# 💎 Author
+💎 Author
 Made with ❤️ by Athish Muthukumar
 
-## `.gitignore`
+**`.gitignore`**
 
 Create a file called `.gitignore` and paste this:
 
