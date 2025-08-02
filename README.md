@@ -25,6 +25,7 @@ The dashboard provides miner vitals, seismic activity, zone-based grouping, and 
  **Lucide Icons** → Clean consistent icons
 
 📝 Usage
+
 From the home screen, click View Miners
 Select any miner ID (ex: MINE001)
 View miner's heart rate, vitals, seismic activity, and environmental data
